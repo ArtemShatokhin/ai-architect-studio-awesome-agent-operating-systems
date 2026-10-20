@@ -33,6 +33,8 @@ Do not treat a 1,000-skill catalog as an operating system. Safety gate: [QUALITY
 
 ---
 
+- **[Kortix](https://github.com/kortix-ai/suna)** - Open-source AI operating system: agents, skills, memory and connectors in one repository the company owns, each session on its own cloud computer, and work landing through a change request. *Checked: 2026-10-20*
+
 ## Agent Runtimes
 
 Agent runtimes provide the execution loop, tool calling, and context management that power autonomous agents.
