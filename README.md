@@ -47,6 +47,8 @@ Agent runtimes provide the execution loop, tool calling, and context management 
 
 - **[OpenCode](https://opencode.ai/)** - Open-source terminal/desktop coding agent. Model-agnostic, LSP-enabled, supports 75+ LLM providers. 195k+ GitHub stars. *Checked: 2026-08-16*
 
+- **[Kortix](https://github.com/kortix-ai/suna)** - An agent operating system you run yourself: agents, tool grants and company memory live as files in a git repo you host, on Kortix Cloud, in your VPC or on-prem. Elastic License 2.0 (source-available), 20k+ stars. *Checked: 2026-10-21*
+
 - **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** - Self-hosted agent runtime and MCP bridge with persistent sessions, approvals, sandbox backends, credentials, and audit/replay. *Checked: 2026-08-31*
 
 - **[Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS)** - Apache-2.0 local-first agent operation environment for portable agent and team packages, multi-agent orchestration, A2A Agent Cards, MCP integration, and coding-host adapters. *Checked: 2026-08-30*
